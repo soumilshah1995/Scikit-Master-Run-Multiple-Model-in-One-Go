@@ -1,7 +1,7 @@
 # Scikit-Master-Run-Multiple-Model-in-One-Go
 Scikit Master Run Multiple Model in One Go
 Article: https://www.linkedin.com/pulse/scikit-master-library-run-multiple-algorithm-one-go-soumil-shah/
-Video Tutorial :
+Video Tutorial : https://youtu.be/o66hEMePlj0
 
 ####Problem statment
 Problem Statements: We have Multiple SCIKIT Algorithms like MultiNomial NB , Decision Tree , Random Forest Algorithm, Linear Regression, Logistic Regression, SGD Algorithm and much More. Running or testing your Data set with all of this can be a tedious Work and time consuming with lot of repetition of code.
